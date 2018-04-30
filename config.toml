@@ -171,7 +171,7 @@ defaultContentLanguageInSubdir = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of project pages.
   [params.projects]
@@ -219,9 +219,9 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/alexlovelltroy"
 
 [[params.social]]
-    icon = "linkedin"
+    icon = "user-secret"
     icon_pack = "fa"
-    link = "//linkedin.com/in/alexlovelltroy"
+    link = "//keybase.io/alexlovelltroy"
 
 
 # Navigation Links
@@ -238,8 +238,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Blog"
+  url = "https:\/\/fingers.cx"
   weight = 3
 
 [[menu.main]]

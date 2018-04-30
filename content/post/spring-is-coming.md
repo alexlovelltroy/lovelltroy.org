@@ -7,7 +7,7 @@ image_preview = "scaled/martenitsa.jpg"
 
 date = 2014-03-01
 lastmod = 2018-01-13
-draft = false
+draft = true
 
 tags = ["culture", "travel"]
 

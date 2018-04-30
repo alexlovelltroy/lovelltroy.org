@@ -14,6 +14,7 @@ tags = ["programming", "travel"]
 [header]
 image = "headers/header-martenitsa.jpg"
 caption = "[**Bulgarian Martenitsas**](https://en.wikipedia.org/wiki/Martenitsa/)"
+preview = true
 +++
 
 
