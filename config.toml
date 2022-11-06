@@ -10,7 +10,7 @@ title = "Alex Lovell-Troy"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2022"
 
 theme = "academic"
 enableEmoji = true
@@ -51,11 +51,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Alex Lovell-Troy"
-  role = "Vice President of Transformation and Solution Architecture"
+  role = "Chief Architect, Twilio Communications Platform"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Pythian", url = "https://pythian.com" }, {name = "News Deeply", url = "https://www.newsdeeply.com/"}, {name = "Apolitical", url = "https://apolitical.co"} ]
+  organizations = [ {name = "Twilio", url="https://www.twilio.com"}, { name = "Pythian", url = "https://pythian.com" }, {name = "News Deeply", url = "https://www.newsdeeply.com/"}, {name = "Apolitical", url = "https://apolitical.co"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -239,7 +239,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Blog"
-  url = "https:\/\/fingers.cx"
+  url = "https://fingers.cx"
   weight = 3
 
 [[menu.main]]
