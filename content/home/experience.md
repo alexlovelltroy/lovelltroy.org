@@ -4,7 +4,7 @@ widget = "experience"
 active = true
 date = "2020-11-01T00:00:00"
 
-title = "Experience"
+title = "Selected Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -17,7 +17,7 @@ As the Chief Architect for Twilio's $1B Communications Platform business, Alex g
 
 # Cray/HPE
 
-Alex was the lead architect for CSM, the first Control System built specifically for the challenges of Exascale Supercomputing.
+Alex was the lead architect for CSM, the first Supercompuer Control System built specifically for the challenges of Exascale Supercomputing.
 
 # Pythian
 
@@ -27,7 +27,7 @@ Alex was the Vice President in charge of delivering strategic consulting, leadin
 
 Alex was a player/coach on the international payments team, allowing Second Life to safely accept payments in 27 global currencies and manage the internal money supply of the virtual world.
 
-# LBTO
+# Large Binocular Telescope Observatory
 
 As part of the construction team, Alex built the computer and network infrastructure for the world's largest optical telescope.
 

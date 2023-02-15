@@ -61,10 +61,6 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "github" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://twitter.com/alexlovelltroy"
-        icon  = "twitter" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
         url   = "https://linkedin.com/in/alexlovelltroy"
         icon  = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
