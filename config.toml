@@ -77,6 +77,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "mastodon" # icon name without the 'fa-'
         icon_pack = "fab"
         html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
+    [[params.social]]
+        url = "https://calendly.com/alexlovelltroy"
+        icon = "calendar"
+        icon-pack = "fab"
 
 
 # If you don't want to use the default menu, you can define one by yourself
