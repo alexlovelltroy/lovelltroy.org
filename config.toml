@@ -2,9 +2,10 @@
 
 baseURL                          = "http://www.lovelltroy.org/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
-DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-# disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+DefaultContentLanguage           = "en"                           # Default language for multilingual sites
+# disqusshortname                = ""                             # https://gohugo.io/content-management/comments
+googleAnalytics                  = "G-7N07NC1PRN"                 # https://gohugo.io/templates/internal/#google-analytics
+enableRobotsTXT                  = true
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
