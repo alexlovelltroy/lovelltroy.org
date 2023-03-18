@@ -4,7 +4,7 @@ baseURL                          = "http://www.lovelltroy.org/"   # Your domain 
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                           # Default language for multilingual sites
 # disqusshortname                = ""                             # https://gohugo.io/content-management/comments
-googleAnalytics                  = "G-7N07NC1PRN"                 # https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics                  = 'G-7N07NC1PRN'                 # https://gohugo.io/templates/internal/#google-analytics
 enableRobotsTXT                  = true
 
 [params]
